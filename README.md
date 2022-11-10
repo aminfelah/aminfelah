@@ -133,9 +133,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aminfelah&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aminfelah&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%"/>
+</div>  
 
-<br/>  
+<br/> 
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminfelah&show_icons=true&locale=en&layout=compact" alt="aminfelah" style="width: 50%" />
+
+</div>  
+
+<br/> 
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminfelah&" alt="aminfelah" style="width: 50%" />
+</div>  
+
+<br/> 
 
 
 
@@ -152,3 +164,5 @@
 
 
 <br />
+
+
