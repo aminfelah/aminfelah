@@ -146,7 +146,8 @@
 <div align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminfelah&" alt="aminfelah" style="width: 50%" />
 </div>  
-
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminfelah" alt="aminfelah" /></a> </p>
 <br/> 
 
 
@@ -154,6 +155,8 @@
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
+
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=aminfelah&&style=flat-square" align="center" />
